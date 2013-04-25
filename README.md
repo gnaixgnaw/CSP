@@ -4,10 +4,7 @@ CSP
 Constrained Spectral Clustering
 
 Author:
-Xiang Wang, Knowledge Discovery and Data Mining Lab, Department of Computer Science, UC Davis
-
-Contact:
-xiang@ucdavis.edu
+Xiang Wang, UC Davis
 
 Website:
 https://sites.google.com/site/gnaixgnaw
